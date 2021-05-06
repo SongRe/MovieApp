@@ -1,6 +1,6 @@
-# Pikkr
+# Project Overview - Pikkr
 
-The best app to help you and your friends choose a movie to watch together! Tailored for movie-lovers who enjoy a relaxing group movie night, the Pikkr android application saves headaches from endless arguments by creating an efficient browsing and voting system for movies, with a simple swipe. 
+An app designed to help you and your friends choose a movie to watch together! Tailored for movie-lovers who enjoy a relaxing group movie night, the Pikkr android application saves headaches from endless arguments by creating an efficient browsing and voting system for movies, with a simple swipe. 
 
 # How it works
 
